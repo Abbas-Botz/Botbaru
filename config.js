@@ -4,23 +4,23 @@ Penjelasan selanjutnya adalah untuk mengisi variabel global.mongo, yang merupaka
 **/
 
 
-global.owner = ['6281395861695']  
-global.mods = ['6281395861695'] 
-global.prems = ['6281395861695']
-global.nameowner = 'Tio'
-global.numberowner = '6281395861695' 
-global.mail = 'support@tioprm.my.id' 
-global.dana = '6281395861695'
-global.pulsa = '6281395861695'
-global.gopay = '6281395861695'
-global.namebot = 'BOTCAHX'
-global.gc = 'https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r'
-global.web = 'https://github.com/BOTCAHX'
-global.instagram = 'https://instagram.com/prm2.0'
-global.wm = '© Tio'
+global.owner = ['6285716653135']  
+global.mods = ['6285716653135'] 
+global.prems = ['6285716653135']
+global.nameowner = 'Abbas'
+global.numberowner = '6285716653135' 
+global.mail = 'abbasbotz@gmail.com' 
+global.dana = '08995820020'
+global.pulsa = '6285716653135'
+global.gopay = '08995820020'
+global.namebot = 'Abbas Botz'
+global.gc = '-'
+global.web = 'https://github.com/Abbas-Botz'
+global.instagram = 'https://instagram.com/riski_abbas12'
+global.wm = '© Abbas'
 global.watermark = wm
-global.wm2 = '⫹⫺ Tio'
-global.wm3 = '© Tio'
+global.wm2 = '⫹⫺ Abbas'
+global.wm3 = '© Abbas'
 global.wm4 = '© BotWa'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
